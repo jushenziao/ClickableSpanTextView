@@ -1,0 +1,3 @@
+# ClickableSpanTextView
+一个支持clickSpan和非clickSpan区域不同点击事件的TextView
+看上去或许没啥用，其实真正用到的时候还是很有用的
